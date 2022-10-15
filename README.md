@@ -21,3 +21,8 @@ N/A
 ## License
 
 MIT license.
+
+## Submitting Link to Repository
+
+Link to the hosted site, as per prework requirement.
+<https://mrmaciejm.github.io/pre-work-study-guide/>
